@@ -1,1 +1,2 @@
 # Arduino-based-parking-system
+In this project we are using 2 proximity sensors and a servo motor with Arduino .The IR sensors detects the cars entering the parking lot and moving out .A counter variable keeps the track of number of vehicles parked inside the parking lot . And if the total number of cars inside the parking area is equal to the  no of parking slots then the parking area gate will not open .
